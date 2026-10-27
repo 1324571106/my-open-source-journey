@@ -14,3 +14,5 @@ I am learning programming and open-source development using my Android phone.
 ## Learning Log
 
 Day 1: Created my learning repository and started learning GitHub.
+
+哈哈
